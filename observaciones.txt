@@ -1,0 +1,1 @@
+La libería estaba incompleta, ni siquiera para un funcionamiento simple como el que hicimos acá, que solamente necesitaba saber un nombre y un score para sacarlo en pantalla, solamente podés ingresar datos pero no sacarlos, los mostraba en una consola.
